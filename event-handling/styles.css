@@ -1,0 +1,14 @@
+.news {
+    border: 1px solid #000000;
+    margin-bottom: 3px;
+    padding: 5px;
+    margin-top: 3px;
+}
+
+.news .title {
+    font-weight: bold;
+}
+
+.news .abstract {
+    font-style: italic;
+}
